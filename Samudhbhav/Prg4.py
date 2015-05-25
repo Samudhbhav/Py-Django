@@ -21,7 +21,7 @@
 #    def size(self):
 #        return len(self.items)
 
-from pythonds.basic.stack1 import Stack
+from stack1 import Stack
 
 s = Stack()
 
