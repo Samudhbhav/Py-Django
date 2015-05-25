@@ -1,4 +1,4 @@
-# Samudhbhav/pythonds/basic/stack1.py
+# Samudhbhav/stack1.py
 # Contents of stack1.py :
 # Used in Prg4.py
 class Stack:
